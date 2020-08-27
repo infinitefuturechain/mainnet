@@ -20,7 +20,7 @@ If you run the node on your local machine, it will be jailed when your computer 
 
 ## Download Executables
 
-Download packages from [Github Releases](https://github.com/infinitefuture/infinitefuture/releases) according to your OS,
+Download packages from [Github Releases](https://github.com/infinitefuturechain/infinitefuture/releases) according to your OS,
 
 then extract the excutables (infinitefuture and infinitefuturecli) to the specified directory:
 
