@@ -53,4 +53,4 @@ infinitefuturecli query staking validator ${validator-address}
 ```
 
 You can confirm that you are in the validator set by using gardplorer:
-https://explorer.infinitefuture.com/#/validator
+https://explorer.infinitefuture.top/
