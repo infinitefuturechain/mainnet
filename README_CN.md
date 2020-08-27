@@ -84,7 +84,7 @@ infinitefutured init <your moniker name> --home <path>
 moniker只能包含ASCII字符。使用Unicode字符会使得你的节点不可访问
 :::
 
-从[latest](https://github.com/infinitefuturechain/infinitefuture/mainnet/tree/master/latest)中获取主网信息，包含了主网最新版本配置文件和genesis文件，将[config.toml](https://github.com/infinitefuturechain/infinitefuture/mainnet/blob/master/latest/config.toml)、[genesis.json](https://github.com/infinitefuturechain/infinitefuture/mainnet/blob/master/latest/genesis.json)以及[infinitefutured.toml](https://github.com/infinitefuturechain/infinitefuture/mainnet/blob/master/latest/infinitefutured.toml)放至`<path>/.infinitefutured/config/`目录下。
+从[latest](https://github.com/infinitefuturechain/mainnet/tree/master/latest)中获取主网信息，包含了主网最新版本配置文件和genesis文件，将[config.toml](https://github.com/infinitefuturechain/mainnet/blob/master/latest/config.toml)、[genesis.json](https://github.com/infinitefuturechain/mainnet/blob/master/latest/genesis.json)以及[infinitefutured.toml](https://github.com/infinitefuturechain/mainnet/blob/master/latest/infinitefutured.toml)放至`<path>/.infinitefutured/config/`目录下。
 
 你可以在`<path>/.infinitefutured/config/config.toml`文件中编辑`moniker`:
 
