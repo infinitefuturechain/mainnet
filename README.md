@@ -57,7 +57,7 @@ rm -rf $HOME/.infinitefutured
 
 #### 4.2: Download Genesis and Config Files
 
-Go to the infinitefutureconfig directory, replace the [genesis.json](https://github.com/Infinitefuture/mainnet/blob/master/latest/genesis.json)  and [config.toml](https://github.com/Infinitefuture/mainnet/blob/master/latest/config.toml) files with the downloaded mainnet infinitefuturefiles，and put [Infinitefutured.toml](https://github.com/Infinitefuture/mainnet/blob/master/latest/Infinitefutured.toml) in the directory.
+Go to the infinitefutureconfig directory, replace the [genesis.json](https://github.com/infinitefuturechain/mainnet/blob/master/latest/genesis.json)  and [config.toml](https://github.com/infinitefuturechain/mainnet/blob/master/latest/config.toml) files with the downloaded mainnet infinitefuturefiles，and put [Infinitefutured.toml](https://github.com/infinitefuturechain/mainnet/blob/master/latest/infinitefutured.toml) in the directory.
 
 #### 4.3: Modify the Config File
 
